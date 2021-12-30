@@ -8,6 +8,6 @@ tags:
   - Video
 ---
 
-Está disponible el Curso de Modelimo Digital. [Accede ahora](ModelismoDigital.com).
+Está disponible el Curso de Modelimo Digital. [Accede ahora](//ModelismoDigital.com).
 
 <iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
