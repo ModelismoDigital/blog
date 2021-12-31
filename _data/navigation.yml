@@ -7,3 +7,11 @@ main:
     url: /categories/
   - title: "Cursos"
     url: https://institute-of-digital-art.teachable.com/
+
+docs:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /a1
+      - title: "Child Page A2"
+        url: /a2
