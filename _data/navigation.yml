@@ -9,6 +9,7 @@ main:
     url: https://institute-of-digital-art.teachable.com/
 
 docs:
+  - title: "Modelismo Digital"
     children:
       - title: "Capítulo gratis"
         url: /a1
