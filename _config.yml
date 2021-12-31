@@ -87,22 +87,6 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
-post_nav:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-
 defaults:
   # _posts
   - scope:
@@ -111,8 +95,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-      sidebar:
-        nav: "post_nav"
       read_time: true
       comments: true
       share: true
