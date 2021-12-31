@@ -100,7 +100,8 @@ defaults:
       share: true
       related: true
       sidebar:
-        - image: "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
+        - title: "Modelismo Digital"
+          image: "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
           image_alt: "image"
           text: "Some text here."
           nav: docs
