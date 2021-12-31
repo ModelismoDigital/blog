@@ -9,9 +9,6 @@ main:
     url: https://institute-of-digital-art.teachable.com/
 
 docs:
-  - title: "Modelismo Digital"
-    image: "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
-    image_alt: "image"
     children:
       - title: "Capítulo gratis"
         url: /a1
