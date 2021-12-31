@@ -5,27 +5,6 @@ permalink: /start-page/
 
 ---
 
-        
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-            <div class="container">
-                <!-- <a class="navbar-brand js-scroll-trigger" href="#page-top"><img src="assets/img/ModelismoDigital.svg" alt="" /></a> -->
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">Modelismo Digital</a>
-                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                    Menu
-                    <i class="fas fa-bars ml-1"></i>
-                </button>
-                <div class="collapse navbar-collapse" id="navbarResponsive">
-                    <ul class="navbar-nav text-uppercase ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#services">Qué es</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#portfolio">Capítulos</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Escenas</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#team">Equipo</a></li>
-                        <li class="nav-item"><a class="nav-link" id="nav_course" target="_blank" href="https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital">Acceder gratis</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
         <!-- Masthead-->
         <header class="masthead">
             <div class="container">
