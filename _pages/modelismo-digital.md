@@ -5,7 +5,7 @@ permalink: /start-page/
 
 ---
 
-        <!-- Masthead-->
+[comment]:        <!-- Masthead-->
         <header class="masthead">
             <div class="container">
                 <div class="masthead-subheading">Bienvenido al mundo del </div>
@@ -21,9 +21,9 @@ permalink: /start-page/
                     <h2 class="section-heading text-uppercase">Qué es el modelismo digital</h2>
                     <h3 class="section-subheading text-muted">Con los cursos de Modelismo Digital te iniciarás en la manipulación en el entorno 3D y crearás objetos, terrenos, vegetación, personajes, iluminación y materiales para crear escenas completas.</h3>
                 </div>
-                <!-- Video -->
+[comment]:                <!-- Video -->
 <div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="P_00_01.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-                <!-- Video -->
+[comment]:                <!-- Video -->
                 <div class="text-center">
                     <a target="_blank" class="btn btn-primary btn-xl text-uppercase" href="https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital">Acceder gratis</a>
                     <P>&nbsp;</P>
@@ -56,7 +56,7 @@ permalink: /start-page/
                 </div>
             </div>
         </section>
-        <!-- Portfolio Grid-->
+[comment]:        <!-- Portfolio Grid-->
 <style>
 .portfolio-modal .close-modal {
     position: absolute;
