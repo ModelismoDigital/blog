@@ -113,6 +113,12 @@ defaults:
           text: "Some text here."
         - title: "Another Title"
           text: "More text here."
+        - label: "Instagram"
+          icon: "fab fa-fw fa-instagram"
+          url: "https://instagram.com/"
+        - title: "Another Title"
+          text: "More text here."
+          url: https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital
 
 category_archive:
   type: liquid
