@@ -1,6 +1,6 @@
 main:
   - title: "Inicio"
-    url: https://ModelismoDigital.com
+    url: /start-page/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
