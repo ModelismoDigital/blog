@@ -104,6 +104,7 @@ defaults:
           image: "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
           image_alt: "image"
           text: "Some text here."
+          nav: doc
   # _pages
   - scope:
       path: "_pages"
