@@ -98,12 +98,10 @@ post_nav:
         url: /docs/installation/
       - title: "Upgrading"
         url: /docs/upgrading/
-
   - title: Customization
     children:
       - title: "Configuration"
         url: /docs/configuration/
-
 
 defaults:
   # _posts
