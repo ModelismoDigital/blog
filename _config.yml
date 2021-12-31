@@ -102,7 +102,8 @@ defaults:
       sidebar:
         - title: "Nav MD"
           image: "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
-          nav: docs
+          image_alt: "image"
+          text: "Some text here."
   # _pages
   - scope:
       path: "_pages"
