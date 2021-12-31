@@ -9,9 +9,12 @@ main:
     url: https://institute-of-digital-art.teachable.com/
 
 docs:
-  - title: "Parent Page A"
+  - title: "Modelismo Digital"
+  - title: "Title"
+    image: "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
+    image_alt: "image"
     children:
-      - title: "Child Page A1"
+      - title: "Capítulo gratis"
         url: /a1
-      - title: "Child Page A2"
+      - title: "Curso completo"
         url: /a2
