@@ -10,8 +10,7 @@ main:
 
 docs:
   - title: "Modelismo Digital"
-    image: "https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg"
-    image_alt: "image"
+    image: "https://modelismodigital.com/assets/img/capitulos/C8_img180.jpg"
     children:
       - title: "Capítulo gratis"
         url: /a1
