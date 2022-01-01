@@ -13,7 +13,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bienvenido al mundo del modelismo digital"
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '<h2>¿QUÉ ES EL MODELISMO DIGITAL?:</h2> Con los cursos de Modelismo Digital te iniciarás en la manipulación en el entorno 3D y crearás objetos, terrenos, vegetación, personajes, iluminación y materiales para crear escenas completas.'
 feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 1"
@@ -81,41 +81,61 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-<div style="padding:25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="P_00_01.mp4"></iframe></div>
-
-<script src="https://player.vimeo.com/api/player.js"></script>
-
-<iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-
 <iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
-<div class="row text-center">
-    <div class="col-md-4">
-        <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-subway fa-stack-1x fa-inverse"></i>
-        </span>
-        <h4 class="my-3">Modelos</h4>
-        <p class="text-muted">Utilizar o crear modelos digitales para incluirlos en nuestros dioramas.</p>
+<div class="feature__wrapper">
+    <div class="feature__item">
+      <div class="archive__item">
+          <div class="archive__item-teaser">
+            <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-subway fa-stack-1x fa-inverse"></i>
+            </span>
+          </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Modelos</h2>
+            <div class="archive__item-excerpt">
+              <p>Utilizar o crear modelos digitales para incluirlos en nuestros dioramas.</p>
+            </div>
+        </div>
+      </div>
     </div>
-    <div class="col-md-4">
-        <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-tree fa-stack-1x fa-inverse"></i>
-        </span>
-        <h4 class="my-3">Entorno</h4>
-        <p class="text-muted">Crear un entorno con terrenos, vegetación, edificios, árboles donde situar los modelos.</p>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+          <div class="archive__item-teaser">
+             <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-tree fa-stack-1x fa-inverse"></i>
+            </span>
+          </div>
+        <div class="archive__item-body">
+            <h2 class="archive__item-title">Entorno</h2>
+            <div class="archive__item-excerpt">
+              <p>Crear un entorno con terrenos, vegetación, edificios, árboles donde situar los modelos.</p>
+            </div>
+            <p><a href="/blog/#test-link" class="btn btn--primary">Read More</a></p>
+        </div>
+      </div>
     </div>
-    <div class="col-md-4">
-        <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fas fa-desktop fa-stack-1x fa-inverse"></i>
-        </span>
-        <h4 class="my-3">Visualizar</h4>
-        <p class="text-muted">Generar las imágenes, videos o visualización 3D de los modelos en su entorno.</p>
+  
+    <div class="feature__item">
+      <div class="archive__item">     
+        <div class="archive__item-teaser">
+            <span class="fa-stack fa-4x">
+                <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                <i class="fas fa-desktop fa-stack-1x fa-inverse"></i>
+            </span>
+        </div>
+        <div class="archive__item-body">       
+            <h2 class="archive__item-title">Visualizar</h2>
+            <div class="archive__item-excerpt">
+              <p>Generar las imágenes, videos o visualización 3D de los modelos en su entorno.</p>
+            </div>
+        </div>
+      </div>
     </div>
 </div>
-
 
 {% include feature_row %}
 
