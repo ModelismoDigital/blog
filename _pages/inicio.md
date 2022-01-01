@@ -27,11 +27,11 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C3_img180.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C4_img180.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
@@ -39,7 +39,7 @@ feature_row2:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C5_img180.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
@@ -47,7 +47,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C6_img180.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
@@ -56,7 +56,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-<script>
+<style>
 .text-center {
     text-align: center !important;
 }
@@ -77,7 +77,8 @@ feature_row4:
   div.initial-content div.page__hero--overlay {
     padding: 6em 0px;
 }
-</script>
+</style>
+
 {% include feature_row id="intro" type="center" %}
 
 <div style="padding:25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="P_00_01.mp4"></iframe></div>
