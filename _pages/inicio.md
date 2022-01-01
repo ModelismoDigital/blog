@@ -92,15 +92,22 @@ feature_row4:
     margin-left: -0.75rem;
 }
   
-  @media (min-width: 768px)
+@media (min-width: 768px)
 .col-md-4 {
     flex: 0 0 33.3333333333%;
     max-width: 33.3333333333%;
 }
   
-  div.initial-content div.page__hero--overlay {
+div.initial-content div.page__hero--overlay {
     padding: 6em 0px;
 }
+  
+  
+.sketchfabembed {
+    width: 100%;
+    height: 470px;
+}
+
 </style>
 
 {% include feature_row id="intro" type="center" %}
@@ -163,6 +170,16 @@ feature_row4:
 
 {% include feature_row %}
 
+## Scene Carentan  
+![Scene Carentan](https://modelismodigital.com/assets/img/escenas/F_1_Scene_Carentan_1.jpg)
+
+## Scene Betsey  
+![Scene Betsey](https://modelismodigital.com/assets/img/escenas/F_2_Scene_Betsy_1.jpg)
+
+## Scene Kurtz  
+![Scene Kurtz](https://modelismodigital.com/assets/img/escenas/F_4_Scene_Panzers_1.jpg)
+
+<div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        <!-- sketchfab width="1110" height="600"  -->
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
