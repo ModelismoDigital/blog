@@ -17,18 +17,30 @@ intro:
 feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "1. Introducción"
+    excerpt: "Ver presentación de [Capítulo 1](Capitulo1)"
+    url: https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
+    btn_label: "Acceder gratis"
     btn_class: "btn--primary"
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
+    alt: "placeholder image 2"
+    title: "2. Creación de terrenos"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: https://modelismodigital.com/assets/img/capitulos/C3_img180.jpg
-    title: "Placeholder 3"
+    alt: "placeholder image 3"
+    title: "3. Modelos"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C4_img180.jpg
+    alt: "placeholder image 4"
+    title: "4. Escena Betsey"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C5_img180.jpg
+    alt: "placeholder image 5"
+    title: "5. Materiales"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C6_img180.jpg
+    alt: "placeholder image 6"
+    title: "6. Vegetación"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C4_img180.jpg
