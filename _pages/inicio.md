@@ -18,7 +18,7 @@ feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 1"
     title: "1. Introducción"
-    excerpt: "Ver presentación de [Capítulo 1](modelismo/Capitulo1/)"
+    excerpt: "Ver presentación de [Capítulo 1](/modelismo/Capitulo1/)"
     url: "https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
     btn_label: "Acceder gratis"
     btn_class: "btn--primary"
@@ -41,6 +41,18 @@ feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C6_img180.jpg
     alt: "placeholder image 6"
     title: "6. Vegetación"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C7_img180.jpg
+    alt: "placeholder image 7"
+    title: "7. Personajes"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C8_img180.jpg
+    alt: "placeholder image 8"
+    title: "8. Luces, cámara, acción"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg
+    alt: "placeholder image 9"
+    title: "9. Escena de Kurtz"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C4_img180.jpg
