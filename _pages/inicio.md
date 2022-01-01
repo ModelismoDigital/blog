@@ -1,11 +1,11 @@
 ---
-title: "modelismo digital"
+title: "Modelismo digital"
 layout: splash
 permalink: /inicio/
 date: 2021-12-03T12:00:00-00:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.1"
+  overlay_filter: "0.0"
   overlay_image: https://modelismodigital.com/assets/img/header-bg.jpg
   actions:
     - label: "Acceder gratis"
@@ -56,9 +56,37 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
+<script>
+.text-center {
+    text-align: center !important;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -0.75rem;
+    margin-left: -0.75rem;
+}
+  
+  @media (min-width: 768px)
+.col-md-4 {
+    flex: 0 0 33.3333333333%;
+    max-width: 33.3333333333%;
+}
+  
+  div.initial-content div.page__hero--overlay {
+    padding: 6em 0px;
+}
+</script>
 {% include feature_row id="intro" type="center" %}
 
-<div style="padding:25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="P_00_01.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="P_00_01.mp4"></iframe></div>
+
+<script src="https://player.vimeo.com/api/player.js"></script>
+
+<iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <div class="row text-center">
     <div class="col-md-4">
