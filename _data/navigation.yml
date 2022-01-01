@@ -1,7 +1,7 @@
 main:
   - title: "Inicio"
-    url: /start-page/
-  - title: "Posts"
+    url: /inicio/
+  - title: "Blog"
     url: /posts/
   - title: "Categories"
     url: /categories/
