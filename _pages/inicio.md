@@ -58,32 +58,34 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-                <div class="row text-center">
-                    <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-subway fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 class="my-3">Modelos</h4>
-                        <p class="text-muted">Utilizar o crear modelos digitales para incluirlos en nuestros dioramas.</p>
-                    </div>
-                    <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-tree fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 class="my-3">Entorno</h4>
-                        <p class="text-muted">Crear un entorno con terrenos, vegetación, edificios, árboles donde situar los modelos.</p>
-                    </div>
-                    <div class="col-md-4">
-                        <span class="fa-stack fa-4x">
-                            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-                            <i class="fas fa-desktop fa-stack-1x fa-inverse"></i>
-                        </span>
-                        <h4 class="my-3">Visualizar</h4>
-                        <p class="text-muted">Generar las imágenes, videos o visualización 3D de los modelos en su entorno.</p>
-                    </div>
-                </div>
+<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="P_00_01.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<div class="row text-center">
+    <div class="col-md-4">
+        <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-subway fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4 class="my-3">Modelos</h4>
+        <p class="text-muted">Utilizar o crear modelos digitales para incluirlos en nuestros dioramas.</p>
+    </div>
+    <div class="col-md-4">
+        <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-tree fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4 class="my-3">Entorno</h4>
+        <p class="text-muted">Crear un entorno con terrenos, vegetación, edificios, árboles donde situar los modelos.</p>
+    </div>
+    <div class="col-md-4">
+        <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fas fa-desktop fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4 class="my-3">Visualizar</h4>
+        <p class="text-muted">Generar las imágenes, videos o visualización 3D de los modelos en su entorno.</p>
+    </div>
+</div>
 
 
 {% include feature_row %}
