@@ -18,8 +18,8 @@ feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 1"
     title: "1. Introducción"
-    excerpt: "Ver presentación de [Capítulo 1](Capitulo1)"
-    url: https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
+    excerpt: "Ver presentación de [Capítulo 1](modelismo/Capitulo1/)"
+    url: "https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
     btn_label: "Acceder gratis"
     btn_class: "btn--primary"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
