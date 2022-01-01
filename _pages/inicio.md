@@ -1,17 +1,17 @@
 ---
-title: "Inicio"
+title: "modelismo digital"
 layout: splash
 permalink: /inicio/
 date: 2021-12-03T12:00:00-00:00
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: https://modelismodigital.com/assets/img/header-bg.jpg
   actions:
     - label: "Acceder gratis"
       url: "https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
+excerpt: "Bienvenido al mundo del modelismo digital"
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
@@ -58,7 +58,7 @@ feature_row4:
 
 {% include feature_row id="intro" type="center" %}
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="P_00_01.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="P_00_01.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 <div class="row text-center">
     <div class="col-md-4">
