@@ -18,7 +18,7 @@ feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 1"
     title: "1. Introducción"
-    excerpt: "Ver presentación de [Capítulo 1](/modelismo/Capitulo1/)"
+    excerpt: "Ver presentación de [Capítulo 1](/blog/modelismo/Capitulo1/)"
     url: "https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
     btn_label: "Acceder gratis"
     btn_class: "btn--primary"
@@ -168,20 +168,26 @@ div.initial-content div.page__hero--overlay {
     </div>
 </div>
 
+# Capítulos
 {% include feature_row %}
 
-## Scene Carentan  
+# Escenas
+## Escena Carentan  
 ![Scene Carentan](https://modelismodigital.com/assets/img/escenas/F_1_Scene_Carentan_1.jpg)
 
-## Scene Betsey  
+## Escena Betsey  
 ![Scene Betsey](https://modelismodigital.com/assets/img/escenas/F_2_Scene_Betsy_1.jpg)
 
-## Scene Kurtz  
+## Escena Kurtz  
 ![Scene Kurtz](https://modelismodigital.com/assets/img/escenas/F_4_Scene_Panzers_1.jpg)
 
-<div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        <!-- sketchfab width="1110" height="600"  -->
-{% include feature_row id="feature_row2" type="left" %}
+## Escena 3D 
+<div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        
 
-{% include feature_row id="feature_row3" type="right" %}
+<!-- sketchfab width="1110" height="600"  -->
 
-{% include feature_row id="feature_row4" type="center" %}
+[//]: # ({% include feature_row id="feature_row2" type="left" %})
+
+[//]: # ({% include feature_row id="feature_row3" type="right" %})
+
+[//]: # ({% include feature_row id="feature_row4" type="center" %})
