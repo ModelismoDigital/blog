@@ -1,4 +1,7 @@
 ---
+permalink: /site/
+title: "Site"
+
 ---
 
 # Variables
