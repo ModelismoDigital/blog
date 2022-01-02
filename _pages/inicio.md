@@ -114,6 +114,23 @@ div.initial-content div.page__hero--overlay {
 
 <iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+# Capítulos
+{% include feature_row %}
+
+
+## Un ejemplo de lo que puedes realizar
+<div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        
+
+# Escenas
+## Escena Carentan  
+![Scene Carentan](https://modelismodigital.com/assets/img/escenas/F_1_Scene_Carentan_1.jpg)
+
+## Escena Betsey  
+![Scene Betsey](https://modelismodigital.com/assets/img/escenas/F_2_Scene_Betsy_1.jpg)
+
+## Escena Kurtz  
+![Scene Kurtz](https://modelismodigital.com/assets/img/escenas/F_4_Scene_Panzers_1.jpg)
+
 <div class="feature__wrapper">
     <div class="feature__item">
       <div class="archive__item">
@@ -168,21 +185,6 @@ div.initial-content div.page__hero--overlay {
     </div>
 </div>
 
-# Capítulos
-{% include feature_row %}
-
-# Escenas
-## Escena Carentan  
-![Scene Carentan](https://modelismodigital.com/assets/img/escenas/F_1_Scene_Carentan_1.jpg)
-
-## Escena Betsey  
-![Scene Betsey](https://modelismodigital.com/assets/img/escenas/F_2_Scene_Betsy_1.jpg)
-
-## Escena Kurtz  
-![Scene Kurtz](https://modelismodigital.com/assets/img/escenas/F_4_Scene_Panzers_1.jpg)
-
-## Escena 3D 
-<div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        
 
 <!-- sketchfab width="1110" height="600"  -->
 
