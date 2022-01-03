@@ -10,10 +10,6 @@ nav#site-nav {
     right: 0;
     left: 0;
     z-index: 1030;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
     border: none;
     background-color: transparent;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
@@ -22,11 +18,15 @@ nav#site-nav {
     background-color: #212529;
 }
 
+nav.greedy-nav li.masthead__menu-item a {
+    color: #ffffff;
+    font-size: 0.85em;
+}
+
 div.masthead a.site-title {
     /* background-color: #000000; */
     color: #e84430;
     font-family: Arial;
-    font-feature-settings: "'liga' 1";
     font-kerning: auto;
     font-style: normal;
     font-size: 1.0em;
@@ -38,6 +38,7 @@ div.masthead a.site-title {
     text-transform: none;
     word-spacing: 0;
     text-transform: uppercase;
+   margin-left: 3em;
 }
 
 
