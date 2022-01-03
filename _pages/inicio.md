@@ -131,7 +131,7 @@ div.initial-content div.page__hero--overlay {
 <div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        
 
 # Cursos
-{% include feature_row id="cursos" %}
+{% include feature_row id="cursos" type="center" %}
 {% include contenido_curso.css %}
 
 # Curso de Introducción al Modelismo Digital
