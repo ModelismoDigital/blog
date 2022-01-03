@@ -3,10 +3,10 @@ main:
     url: /inicio/
   - title: "Blog"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
+  - title: "Capítulos"
+    url: #capítulos
   - title: "Cursos"
-    url: https://institute-of-digital-art.teachable.com/
+    url: #cursos
 
 docs:
   - title: "Modelismo Digital"
