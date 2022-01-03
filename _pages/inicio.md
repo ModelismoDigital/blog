@@ -99,7 +99,7 @@ feature_row4:
 }
   
 div.initial-content div.page__hero--overlay {
-    padding: 6em 0px;
+    padding: 14em 0px;
 }
   
   
