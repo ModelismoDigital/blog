@@ -20,7 +20,6 @@ feature_row:
     title: "1. Introducción"
     excerpt: "Ver presentación de [Capítulo 1](/blog/modelismo/Capitulo1/)"
     url: "https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
-    type: "outline"
     btn_label: "Acceder gratis"
     btn_class: "btn--primary"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
@@ -130,8 +129,7 @@ div.initial-content div.page__hero--overlay {
 <iframe src="https://player.vimeo.com/video/655858613?h=656ceb1cad&title=0&byline=0&portrait=0" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 # Capítulos
-{% include feature_row %}
-
+{% include feature_row type="outline" %}
 
 ## Un ejemplo de lo que puedes realizar
 <div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        
