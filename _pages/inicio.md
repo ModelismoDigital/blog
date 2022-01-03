@@ -128,6 +128,7 @@ div.initial-content div.page__hero--overlay {
 {% include curso_introduccion.html %}
 
 # Curso Modelismo Digital
+{% include curso_modelismo_digital.html %}
 
 
 # Escenas
