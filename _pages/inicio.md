@@ -124,7 +124,7 @@ div.initial-content div.page__hero--overlay {
 # Cursos
 
 # Curso de Introducción al Modelismo Digital
-{% include curso_introduccion %}
+{% include curso_introduccion.html %}
 
 # Curso Modelismo Digital
 
