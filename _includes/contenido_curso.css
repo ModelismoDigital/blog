@@ -1,0 +1,271 @@
+.root {
+	font-family: var(--font_family);
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	min-height: 100vh;
+	color: var(--brand_text);
+}
+:root {
+	--brand_primary: #2b3636;
+	--brand_secondary: #09A59A;
+	--brand_heading: #2b3636;
+	--brand_text: #2b3636;
+	--brand_navbar_text: #fff;
+	--brand_navbar_fixed_text: #fff;
+	--brand_homepage_heading: #fff;
+	--brand_course_heading: #fff;
+	--brand_video_player_color: #09A59A;
+	--font_family:Proxima;
+  
+}
+
+@font-face {
+  font-family: 'Proxima';
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regular-webfont.eot?1307578394");
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regular-webfont.eot?iefix") format("eot"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regular-webfont.woff?1307578394") format("woff"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regular-webfont.ttf?1307578394") format("truetype"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regular-webfont.svg#webfont2rpW2ohz") format("svg");
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Proxima';
+  font-style: italic;
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regitalic-webfont.eot?1307578394");
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regitalic-webfont.eot?iefix") format("eot"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regitalic-webfont.woff?1307578394") format("woff"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regitalic-webfont.ttf?1307578394") format("truetype"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-regitalic-webfont.svg#webfont2rpW2ohz") format("svg");
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Proxima';
+  font-weight: 300;
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-light-webfont.eot?1307578394");
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-light-webfont.eot?iefix") format("eot"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-light-webfont.woff?1307578394") format("woff"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-light-webfont.ttf?1307578394") format("truetype"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-light-webfont.svg#webfont2rpW2ohz") format("svg");
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Proxima';
+  font-weight: 600;
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibold-webfont.eot?1307578394");
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibold-webfont.eot?iefix") format("eot"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibold-webfont.woff?1307578394") format("woff"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibold-webfont.ttf?1307578394") format("truetype"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibold-webfont.svg#webfont2rpW2ohz") format("svg");
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Proxima';
+  font-weight: 600;
+  font-style: italic;
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibolditalic-webfont.eot?1307578394");
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibolditalic-webfont.eot?iefix") format("eot"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibolditalic-webfont.woff?1307578394") format("woff"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibolditalic-webfont.ttf?1307578394") format("truetype"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-semibolditalic-webfont.svg#webfont2rpW2ohz") format("svg");
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Proxima';
+  font-weight: bold;
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-bold-webfont.eot?1307578394");
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-bold-webfont.eot?iefix") format("eot"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-bold-webfont.woff?1307578394") format("woff"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-bold-webfont.ttf?1307578394") format("truetype"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-bold-webfont.svg#webfont2rpW2ohz") format("svg");
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Proxima';
+  font-weight: bold;
+  font-style: italic;
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-boldit-webfont.eot?1307578394");
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-boldit-webfont.eot?iefix") format("eot"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-boldit-webfont.woff?1307578394") format("woff"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-boldit-webfont.ttf?1307578394") format("truetype"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-boldit-webfont.svg#webfont2rpW2ohz") format("svg");
+  font-display: swap; }
+
+@font-face {
+  font-family: 'Proxima';
+  font-weight: 900;
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-extrabold-webfont.eot?1307578394");
+  src: url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-extrabold-webfont.eot?iefix") format("eot"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-extrabold-webfont.woff?1307578394") format("woff"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-extrabold-webfont.ttf?1307578394") format("truetype"), url("https://assets.teachablecdn.com/fonts/proxima-nova/proximanova-extrabold-webfont.svg#webfont2rpW2ohz") format("svg");
+  font-display: swap; }
+  
+  
+:root {
+	--gutter: 2.4rem;
+}
+:root {
+	--image-height: 170px;
+	--card-content-height: 225px;
+	--card-top-padding: 8px;
+	--card-bottom-padding: 24px;
+}
+:root {
+	--image-height: 170px;
+	--image-width: 310px;
+	--card-content-height: 225px;
+	--card-top-padding: 8px;
+	--card-bottom-padding: 24px;
+	--card-stacked-padding: 24px;
+	--card-stacked-image-margin-right: 20px;
+	--card-stacked-content-width: calc(
+    100% - var(--image-width) - var(--card-stacked-image-margin-right)
+  );
+}
+:root {
+	--container-padding: 40px 20px;
+	--base-width-cutoff: 960px;
+	--brand_navbar_text_trans: #000000;
+}
+:root {
+	--header_width: 960px;
+}
+:root {
+	--footer_width: 960px;
+}
+.block__curriculum__wrapper {
+	background-color: #fff;
+}
+.container {
+	padding: var(--container-padding);
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+.block__curriculum__section {
+	margin-bottom: 10px;
+	text-align: left;
+}
+.bl {
+	width: 100%;
+}
+.block__curriculum__container {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	text-align: center;
+	width: 710px;
+}
+.block__curriculum {
+	font-size: 1.6rem;
+	font-weight: 400;
+	line-height: 2.4rem;
+}
+.block__curriculum__title {
+	color: var(--brand_heading);
+	font-size: 2.4rem;
+	font-weight: 400;
+	line-height: 3.6rem;
+	margin-bottom: 30px;
+}
+:last-child.block__curriculum__section, .block__curriculum__section.last-visible {
+	margin-bottom: 0px;
+}
+.block__curriculum__section__title {
+	border-bottom: 1px solid #EFEFF5;
+	font-weight: 700;
+	padding: 10px 16px;
+}
+.block__curriculum__section__list__item {
+	border-bottom: 1px solid #fff;
+	-webkit-transition: background-color 0.2s ease-out;
+	transition: background-color 0.2s ease-out;
+}
+:last-child.block__curriculum__section__list__item {
+	margin-bottom: 0px;
+}
+a {
+	text-decoration: none;
+	color: var(--brand_secondary);
+}
+.block__curriculum__section__list__item__link {
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	height: 100%;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	padding: 11px 16px;
+	position: relative;
+	width: 100%;
+}
+.block__curriculum__section__list__item__lecture-icon {
+	display: inline-block;
+	height: 16px;
+	margin-right: 10px;
+	min-width: 16px;
+	width: 16px;
+}
+.block__curriculum__section__list__item__lecture-name, .block__curriculum__section__list__item__lecture-duration {
+	color: var(--brand_text);
+}
+button {
+	cursor: pointer;
+	font-family: var(--font_family);
+}
+.block__curriculum__section__list__item__button {
+	background-color: var(--brand_secondary);
+	border: 1px solid var(--brand_secondary);
+	border-radius: 4px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 1.2rem;
+	font-weight: 700;
+	margin-left: auto;
+	padding: 5px 10px;
+	text-transform: uppercase;
+}
+.block__curriculum .start {
+	opacity: 0.5;
+}
+.block__curriculum__section__list__item__lecture-icon__svg {
+	display: block;
+	max-height: 100%;
+	max-width: 100%;
+}
+.block__curriculum__section__lock-icon, .block__curriculum__section__days-to-drip {
+	display: none;
+}
+em, i {
+	font-style: italic;
+}
+.rich-text h4 {
+	font-size: 2.4rem;
+	line-height: 3.6rem;
+	font-weight: 400;
+}
+.rich-text h1, .rich-text h2, .rich-text h3, .rich-text h4, .rich-text h5, .rich-text h6 {
+	margin-bottom: 0px;
+}
+.rich-text p, .rich-text ol, .rich-text ul {
+	font-size: 1.6rem;
+	line-height: 2.4rem;
+	font-weight: 400;
+}
+.rich-text > :last-child {
+	margin-bottom: 0px;
+}
+strong, b {
+	font-weight: bold;
+}
+
+
+@media screen and (min-width: 768px) {
+    .b-83000273-top {
+      padding-top: 40px;
+    }
+    .b-83000273-bottom {
+      padding-bottom: 40px;
+    }
+  }
+  .block__curriculum__section__title {
+    background-color: #EFEFF5;
+  }
+  .block__curriculum__section__list__item {
+    background-color: #F9FAFD;
+  }
