@@ -200,6 +200,7 @@ div.initial-content div.page__hero--overlay {
 
 # Newsletter
 
+Time:  {{site.time}}
 
 <!-- sketchfab width="1110" height="600"  -->
 
