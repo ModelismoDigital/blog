@@ -4,7 +4,9 @@ main:
   - title: "Blog"
     url: /posts/
   - title: "Capítulos"
-    url: #capítulos
+    url: "#capítulos"
+  - title: "Escenas"
+    url: /#escenas
   - title: "Acceder gratis"
     url: #cursos
 
