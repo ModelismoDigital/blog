@@ -118,6 +118,11 @@ div.initial-content div.page__hero--overlay {
     height: 470px;
 }
 
+.feature__item-outline {
+    outline: 10px solid red;
+    border-radius: 5px;
+    padding: 3px;
+}
 </style>
 
 {% include feature_row id="intro" type="center" %}
