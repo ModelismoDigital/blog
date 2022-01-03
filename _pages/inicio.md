@@ -118,9 +118,10 @@ div.initial-content div.page__hero--overlay {
 }
 
 .feature__item {
-    border: 10px solid white;
+    border: 7px solid #e4e4e4;
     border-radius: 21px;
     padding: 3px;
+    margin-bottom: 12px;
 }
 
 .feature__item:first-child {
