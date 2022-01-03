@@ -13,8 +13,8 @@ nav#site-nav {
     border: none;
     background-color: transparent;
     transition: padding-top 0.3s ease-in-out, padding-bottom 0.3s ease-in-out;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.5rem;   /* 1rem with transition */
+    padding-bottom: 0.5rem;
     background-color: #212529;
 }
 
