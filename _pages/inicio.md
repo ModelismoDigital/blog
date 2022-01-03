@@ -54,6 +54,15 @@ feature_row:
     alt: "placeholder image 9"
     title: "9. Escena de Kurtz"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+cursos:
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
+    alt: "placeholder image 9"
+    title: "Curso Introducción al Modelimos Digital"
+    excerpt: "Comienza a crear modelos digitales. <BR> [Regístrate gratis](https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital) <BR>No es necesario tarjeta de crédito"
+  - image_path: https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg
+    alt: "placeholder image 9"
+    title: "Curso Modelimos Digital"
+    excerpt: "Aprende a crear tus escenas favoritas en 3D <BR><BR><BR> [Apúntate](https://institute-of-digital-art.teachable.com/p/modelismo-digital)"
 feature_row2:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C4_img180.jpg
     alt: "placeholder image 2"
@@ -122,6 +131,7 @@ div.initial-content div.page__hero--overlay {
 <div class="sketchfab-embed-wrapper sketchfabembed"> <iframe class="sketchfabembed" title="Scene1 Carentan" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/cae040d800b045909d4d04e9abc55a5a/embed?camera=0"> </iframe> </div>                        
 
 # Cursos
+{% include feature_row id="cursos" type="left" %}
 {% include contenido_curso.css %}
 
 # Curso de Introducción al Modelismo Digital
