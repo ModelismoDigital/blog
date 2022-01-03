@@ -20,6 +20,7 @@ feature_row:
     title: "1. Introducción"
     excerpt: "Ver presentación de [Capítulo 1](/blog/modelismo/Capitulo1/)"
     url: "https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
+    type: "outline"
     btn_label: "Acceder gratis"
     btn_class: "btn--primary"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
