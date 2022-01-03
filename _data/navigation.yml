@@ -1,6 +1,6 @@
 main:
   - title: "Inicio"
-    url: /inicio/
+    url: //
   - title: "Blog"
     url: /posts/
   - title: "Capítulos"
@@ -8,7 +8,7 @@ main:
   - title: "Escenas"
     url: /#escenas
   - title: "Acceder gratis"
-    url: #cursos
+    url: /inicio#cursos
 
 docs:
   - title: "Modelismo Digital"
