@@ -2,6 +2,26 @@
    MASTHEAD
    ========================================================================== */
 
+/* ModelismoDigital */
+div.masthead a.site-title {
+    /* background-color: #000000; */
+    color: #e84430;
+    font-family: Arial;
+    font-feature-settings: "'liga' 1";
+    font-kerning: auto;
+    font-style: normal;
+    font-size: 1.4em;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    line-height: 1.5em;
+    text-align: left;
+    text-decoration: none;
+    text-transform: none;
+    word-spacing: 0;
+    text-transform: uppercase;
+}
+/* end ModelismoDigital */
+
 .masthead {
   position: relative;
   border-bottom: 1px solid $border-color;
