@@ -169,6 +169,11 @@
 	-webkit-transition: background-color 0.2s ease-out;
 	transition: background-color 0.2s ease-out;
 }
+
+li.block__curriculum__section__list__item {
+    margin-bottom: 0.05em;
+}
+
 :last-child.block__curriculum__section__list__item {
 	margin-bottom: 0px;
 }
@@ -205,6 +210,7 @@ button {
 	cursor: pointer;
 	font-family: var(--font_family);
 }
+
 .block__curriculum__section__list__item__button {
 	background-color: var(--brand_secondary);
 	border: 1px solid var(--brand_secondary);
