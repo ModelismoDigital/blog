@@ -117,9 +117,15 @@ div.initial-content div.page__hero--overlay {
     height: 470px;
 }
 
+.feature__item {
+    border: 10px solid white;
+    border-radius: 21px;
+    padding: 3px;
+}
+
 .feature__item:first-child {
-    outline: 10px solid red;
-    border-radius: 5px;
+    border: 10px solid red;
+    border-radius: 21px;
     padding: 3px;
 }
 </style>
