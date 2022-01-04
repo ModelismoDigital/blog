@@ -1,12 +1,12 @@
 main:
   - title: "Inicio"
-    url: //
+    url: /inicio
   - title: "Blog"
     url: /posts/
   - title: "Capítulos"
-    url: "#capítulos"
+    url: "/inicio#capítulos"
   - title: "Escenas"
-    url: /#escenas
+    url: /inicio#escenas
   - title: "Acceder gratis"
     url: /inicio#cursos
 
@@ -14,7 +14,8 @@ docs:
   - title: "Modelismo Digital"
     image: "https://modelismodigital.com/assets/img/capitulos/C8_img180.jpg"
     children:
-      - title: "Capítulo gratis"
-        url: /a1
-      - title: "Curso completo"
-        url: /a2
+      - title: "Incio"
+        url: /inicio
+      - title: "Cursos"
+        url: /inicio#cursos
+
