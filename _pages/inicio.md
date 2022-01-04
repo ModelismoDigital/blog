@@ -123,7 +123,7 @@ div.initial-content div.page__hero--overlay {
     margin-bottom: 12px;
 }
 
-.feature__item:first-child {
+feature__wrapper .feature__item:first-child {
     border: 10px solid red;
     border-radius: 21px;
     padding: 3px;
@@ -170,7 +170,7 @@ div.initial-content div.page__hero--overlay {
 
 # Equipo
 
-<div class="feature__wrapper" style="text-align: center; font-size: 0.8em;">
+<div class="feature__wrapper_icons" style="text-align: center; font-size: 0.8em;">
     <div class="feature__item">
       <div class="archive__item">
           <div class="archive__item-teaser">
