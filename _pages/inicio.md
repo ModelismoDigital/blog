@@ -89,6 +89,11 @@ feature_row4:
 ---
 
 <style>
+  
+h1 {
+    text-align: center;
+}
+  
 .text-center {
     text-align: center !important;
 }
