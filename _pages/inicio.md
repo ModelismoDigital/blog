@@ -52,7 +52,7 @@ feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg
     alt: "placeholder image 9"
     title: "9. Escena de Kurtz"
-    excerpt: "Ver presentación de [Capítulo 1](/blog/modelismo/Capitulo9/)"
+    excerpt: "Ver presentación de [Capítulo 9](/blog/modelismo/Capitulo9/)"
 cursos:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 9"
