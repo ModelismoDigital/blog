@@ -171,8 +171,10 @@ div.initial-content div.page__hero--overlay {
 # Equipo
 <div style="text-align: center">
 <i>  Modelismo digital está realizado por el Instituto de Arte Digital.</i>
+<p>
 
 En el Instituto de Arte Digital preparamos cursos para que puedas ser capaz de crear obras digitales. El medio digital permite ser capaz de representar todo lo que imagines con la única herramienta de tu ordenador y las aplicaciones que aprenderás con nosotros.
+</p>
 </div>
 
 <div class="feature__wrapper_icons" style="text-align: center; font-size: 0.8em;">
