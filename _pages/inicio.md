@@ -11,7 +11,7 @@ header:
     - label: "Acceder gratis"
       url: "https://institute-of-digital-art.teachable.com/p/introduccion-al-modelismo-digital"
   caption: "Time:  {{site.time}}"
-excerpt: "Bienvenido al mundo del</h1>"
+excerpt: "Bienvenido al mundo del"
 intro: 
   - excerpt: '<h2>¿QUÉ ES EL MODELISMO DIGITAL?:</h2> Con los cursos de Modelismo Digital te iniciarás en la manipulación en el entorno 3D y crearás objetos, terrenos, vegetación, personajes, iluminación y materiales para crear escenas completas.'
 feature_row:
