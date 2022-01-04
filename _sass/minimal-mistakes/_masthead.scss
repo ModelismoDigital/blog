@@ -21,6 +21,9 @@ nav#site-nav {
 nav.greedy-nav li.masthead__menu-item a {
     color: #ffffff;
     font-size: 0.85em;
+}
+
+.greedy-nav .hidden-links {
     background-color: #212529;
 }
 
@@ -39,7 +42,7 @@ div.masthead a.site-title {
     text-transform: none;
     word-spacing: 0;
     text-transform: uppercase;
-   margin-left: 3em;
+    margin-left: 3em;
 }
 
 li.masthead__menu-item:last-child {
