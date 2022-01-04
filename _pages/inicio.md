@@ -123,7 +123,7 @@ div.initial-content div.page__hero--overlay {
     margin-bottom: 12px;
 }
 
-feature__wrapper .feature__item:first-child {
+.feature__wrapper .feature__item:first-child {
     border: 10px solid red;
     border-radius: 21px;
     padding: 3px;
