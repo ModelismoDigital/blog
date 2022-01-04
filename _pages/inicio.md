@@ -170,7 +170,7 @@ div.initial-content div.page__hero--overlay {
 
 # Equipo
 
-<div class="feature__wrapper" style"text-align: center; font-size: 0.8em;">
+<div class="feature__wrapper" style="text-align: center; font-size: 0.8em;">
     <div class="feature__item">
       <div class="archive__item">
           <div class="archive__item-teaser">
