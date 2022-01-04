@@ -237,7 +237,7 @@ En el Instituto de Arte Digital preparamos cursos para que puedas ser capaz de c
 
 # Newsletter
   <div style="text-align: center">
-Subscríbite a nuestra newsletter para recibir las últimas noticias de nuestros cursos desde [nuesta página en Teachable](para recibir las últimas noticias de nuestros cursos){:target="_blank"}.
+Subscríbite a nuestra newsletter para recibir las últimas noticias de nuestros cursos desde <a href="https://institute-of-digital-art.teachable.com/p/newsletter">nuesta página en Teachable</a>para recibir las últimas noticias de nuestros cursos.
 </div>
   
 <script>
