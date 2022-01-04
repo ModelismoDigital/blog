@@ -24,35 +24,35 @@ feature_row:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C2_img180.jpg
     alt: "placeholder image 2"
     title: "2. Creación de terrenos"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ver presentación de [Capítulo 2](/blog/modelismo/Capitulo2/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C3_img180.jpg
     alt: "placeholder image 3"
     title: "3. Modelos"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ver presentación de [Capítulo 3](/blog/modelismo/Capitulo3/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C4_img180.jpg
     alt: "placeholder image 4"
     title: "4. Escena Betsey"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ver presentación de [Capítulo 4](/blog/modelismo/Capitulo4/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C5_img180.jpg
     alt: "placeholder image 5"
     title: "5. Materiales"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ver presentación de [Capítulo 5](/blog/modelismo/Capitulo5/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C6_img180.jpg
     alt: "placeholder image 6"
     title: "6. Vegetación"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ver presentación de [Capítulo 6](/blog/modelismo/Capitulo6/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C7_img180.jpg
     alt: "placeholder image 7"
     title: "7. Personajes"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ver presentación de [Capítulo 7](/blog/modelismo/Capitulo7/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C8_img180.jpg
     alt: "placeholder image 8"
     title: "8. Luces, cámara, acción"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ver presentación de [Capítulo 8](/blog/modelismo/Capitulo8/)"
   - image_path: https://modelismodigital.com/assets/img/capitulos/C9_img180.jpg
     alt: "placeholder image 9"
     title: "9. Escena de Kurtz"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Ver presentación de [Capítulo 1](/blog/modelismo/Capitulo9/)"
 cursos:
   - image_path: https://modelismodigital.com/assets/img/capitulos/C1_img180.jpg
     alt: "placeholder image 9"
@@ -120,13 +120,14 @@ div.initial-content div.page__hero--overlay {
     border: 7px solid #e4e4e4;
     border-radius: 21px;
     padding: 3px;
-    margin-bottom: 12px;
+    margin-bottom: 36px;
 }
 
 .feature__wrapper .feature__item:first-child {
     border: 10px solid red;
     border-radius: 21px;
     padding: 3px;
+    margin-bottom: 12px;
 }
 
 .feature__item:first-child .btn--primary {
