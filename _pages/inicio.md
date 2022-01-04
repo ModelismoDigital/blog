@@ -1,5 +1,5 @@
 ---
-title: "MODELSIMO DIGITAL"
+title: "MODELISMO DIGITAL"
 layout: splash
 permalink: /inicio/
 date: 2021-12-03T12:00:00-00:00
