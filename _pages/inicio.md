@@ -108,7 +108,7 @@ feature_row4:
 }
   
 div.initial-content div.page__hero--overlay {
-    padding: 14em 0px;
+    padding: 12% 0px;
 }
   
   
@@ -129,6 +129,11 @@ div.initial-content div.page__hero--overlay {
     border-radius: 21px;
     padding: 3px;
 }
+
+.feature__item:first-child .btn--primary {
+    background-color: #e84430;
+}
+
 </style>
 
 {% include feature_row id="intro" type="center" %}
