@@ -236,7 +236,10 @@ En el Instituto de Arte Digital preparamos cursos para que puedas ser capaz de c
 </div>
 
 # Newsletter
-
+  <div style="text-align: center">
+Subscríbite a nuestra newsletter para recibir las últimas noticias de nuestros cursos desde [nuesta página en Teachable](para recibir las últimas noticias de nuestros cursos){:target="_blank"}.
+</div>
+  
 <script>
 //open external links in a new window
 function external_new_window() {
