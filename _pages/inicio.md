@@ -170,7 +170,7 @@ div.initial-content div.page__hero--overlay {
 
 # Equipo
 
-<div class="feature__wrapper">
+<div class="feature__wrapper" style"text-align: center; font-size: 0.8em;">
     <div class="feature__item">
       <div class="archive__item">
           <div class="archive__item-teaser">
@@ -201,7 +201,6 @@ div.initial-content div.page__hero--overlay {
             <div class="archive__item-excerpt">
               <p>Crear un entorno con terrenos, vegetación, edificios, árboles donde situar los modelos.</p>
             </div>
-            <p><a href="/blog/#test-link" class="btn btn--primary">Read More</a></p>
         </div>
       </div>
     </div>
