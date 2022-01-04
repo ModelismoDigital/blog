@@ -235,7 +235,7 @@ function external_new_window() {
             b.target = "_blank";
             b.rel = "noopener";
             if (b.getAttribute("class") == "block__curriculum__section__list__item__link") {
-                b.getAttribute("href") = "https://institute-of-digital-art.teachable.com" + b.getAttribute("href");
+                b.href = "https://institute-of-digital-art.teachable.com" + b.getAttribute("href");
             }         
         }
     }
