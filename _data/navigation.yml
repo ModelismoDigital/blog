@@ -8,7 +8,7 @@ main:
   - title: "Escenas"
     url: /inicio#escenas
   - title: "Acceder gratis"
-    url: "#cursos"
+    url: "/inicio#cursos"
 
 docs:
   - title: "Modelismo Digital"
