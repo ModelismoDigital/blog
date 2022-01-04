@@ -6,9 +6,9 @@ main:
   - title: "Capítulos"
     url: "/inicio#capítulos"
   - title: "Escenas"
-    url: /inicio#escenas | relative_url
+    url: {{ "/inicio#escenas | relative_url" }}
   - title: "Acceder gratis"
-    url: {{ /inicio#cursos | relative_url }}
+    url: {{ "/inicio#cursos" }}
 
 docs:
   - title: "Modelismo Digital"
