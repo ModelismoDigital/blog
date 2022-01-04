@@ -164,6 +164,11 @@
 	font-weight: 700;
 	padding: 10px 16px;
 }
+
+.block__curriculum__section__list{
+    list-style-type: none;
+}
+
 .block__curriculum__section__list__item {
 	border-bottom: 1px solid #fff;
 	-webkit-transition: background-color 0.2s ease-out;
