@@ -152,10 +152,8 @@ div.initial-content div.page__hero--overlay {
 {% include contenido_curso.css %}
 {% include contenido_curso_icons.html %}
 
-# Curso de Introducción al Modelismo Digital
 {% include curso_introduccion.html %}
 
-# Curso Modelismo Digital
 {% include curso_modelismo_digital.html %}
 
 ## Escena Carentan  
