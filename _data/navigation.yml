@@ -6,7 +6,7 @@ main:
   - title: "Capítulos"
     url: "/inicio#capítulos"
   - title: "Escenas"
-    url: /inicio#escenas
+    url: /inicio/#escena-carentan
   - title: "Acceder gratis"
     url: "/inicio#cursos"
 
