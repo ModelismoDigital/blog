@@ -134,6 +134,22 @@ div.initial-content div.page__hero--overlay {
 }
 
 </style>
+  
+<script>
+//open external links in a new window
+function external_new_window() {
+    for(var c = document.getElementsByTagName("a"), a = 0;a < c.length;a++) {
+        var b = c[a];
+        if(b.getAttribute("href") && b.hostname !== location.hostname) {
+            b.target = "_blank";
+            b.rel = "noopener";
+            if (b.getAttribute("class") == "block__curriculum__section__list__item__link") {
+                b.getAttribute("href") = b.getAttribute("href") + https://institute-of-digital-art.teachable.com
+            }         
+        }
+    }
+}
+</script>
 
 {% include feature_row id="intro" type="center" %}
 
