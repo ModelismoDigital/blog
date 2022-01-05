@@ -257,7 +257,7 @@ function external_new_window() {
 external_new_window();
 </script>
 
-Time:  {{site.time}}
+Time (index.md):  {{site.time}}
 
 <!-- sketchfab width="1110" height="600"  -->
 
