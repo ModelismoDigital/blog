@@ -1,7 +1,7 @@
 ---
 title: "MODELISMO DIGITAL"
 layout: splash
-permalink: /inicio/
+permalink: /inicio2/
 date: 2021-12-03T12:00:00-00:00
 header:
   overlay_color: "#000"
