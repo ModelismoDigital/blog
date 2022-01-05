@@ -1,6 +1,6 @@
 ---
 permalink: /recent/
-layout: archive
+layout: default
 ---
 
 {{ content }}
