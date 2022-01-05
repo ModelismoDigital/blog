@@ -1,6 +1,6 @@
 main:
   - title: "Inicio"
-    url: #site-nav
+    url: "#site-nav"
   - title: "Blog"
     url: /posts/
   - title: "Capítulos"
@@ -15,7 +15,7 @@ docs:
     image: "https://modelismodigital.com/assets/img/capitulos/C8_img180.jpg"
     children:
       - title: "Incio"
-        url: /#site-nav
+        url: "/#site-nav"
       - title: "Cursos"
-        url: /#cursos
+        url: "/#cursos"
 
