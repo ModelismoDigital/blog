@@ -1,21 +1,21 @@
 main:
   - title: "Inicio"
-    url: /inicio
+    url: /
   - title: "Blog"
     url: /posts/
   - title: "Capítulos"
-    url: "/inicio#capítulos"
+    url: "#capítulos"
   - title: "Escenas"
-    url: /inicio/#escena-carentan
+    url: /#escena-carentan
   - title: "Acceder gratis"
-    url: "/inicio#cursos"
+    url: "#cursos"
 
 docs:
   - title: "Modelismo Digital"
     image: "https://modelismodigital.com/assets/img/capitulos/C8_img180.jpg"
     children:
       - title: "Incio"
-        url: /inicio
+        url: #site-nav
       - title: "Cursos"
-        url: /inicio#cursos
+        url: #cursos
 
